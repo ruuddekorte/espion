@@ -1,5 +1,5 @@
-# Création d'un site pour l'agence d'agent RAA
-L'agence RAE (Rodez Agence d'agent) souhaiterait gérer plus facilement ses ressources et ses missions. Votre mission (vous devez l'accepter) et de créer une application qui permettrait :
+# Création d'un site pour l'agence d'agent R2A
+L'agence R2A (Rodez Agence d'agent) souhaiterait gérer plus facilement ses ressources et ses missions. Votre mission (vous devez l'accepter) et de créer une application qui permettrait :
 * au master de gérer et d'affecter des missions ;
 * aux agents de voir et mettre à jour leurs missions affectées.
 
