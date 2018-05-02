@@ -1,4 +1,4 @@
-# Création d'un site pour l'agence d'agent RAE
+# Création d'un site pour l'agence d'agent RAA
 L'agence RAE (Rodez Agence d'agent) souhaiterait gérer plus facilement ses ressources et ses missions. Votre mission (vous devez l'accepter) et de créer une application qui permettrait :
 * au master de gérer et d'affecter des missions ;
 * aux agents de voir et mettre à jour leurs missions affectées.
@@ -9,25 +9,25 @@ L'agence RAE (Rodez Agence d'agent) souhaiterait gérer plus facilement ses ress
 
 ## Objectifs
 * **Créer le modèle de la base de données (format libre).**
-    Complexité : *Normal*
-    Durée estimée : *0,25 jour*
-    Compétence : *2*
+    - Complexité : *Normal*
+    - Durée estimée : *0,25 jour*
+    - Compétence : *2*
 * **Concevoir la base de données en fonction du modèle (format libre).**
-    Complexité : *Normal*
-    Durée estimée : *0,25 jour*
-    Compétence : *3*
+    - Complexité : *Normal*
+    - Durée estimée : *0,25 jour*
+    - Compétence : *3*
 * **Mettre en place l'application avec le framework Laravel.** Celle-ci devra être connecté à la base de donnée.
-    Complexité : *Normal*
-    Durée estimée : *0,5 jour*
-    Compétence : *5*
+    - Complexité : *Normal*
+    - Durée estimée : *0,5 jour*
+    - Compétence : *5*
 * **Mettre en place un système de connexion et afficher la mission affectée (pour un agent) ou la liste des missions (pour un master).** Attention, la connexion doit être sécurisée !!!
-    Complexité : *Complexe*
-    Durée estimée : *1 jour*
-    Compétences : *4, 5 et 6*
+    - Complexité : *Complexe*
+    - Durée estimée : *1 jour*
+    - Compétences : *4, 5 et 6*
 * **Modifier les missions.**
-    Complexité : *Complexe*
-    Durée estimée : *0,5 jour*
-    Compétences : *4, 5 et 6*
+    - Complexité : *Complexe*
+    - Durée estimée : *0,5 jour*
+    - Compétences : *4, 5 et 6*
 
 ##Users stories
 * **En tant que master, je peux** me connecter à l'application avec mon nom de code et mon mot de passe.
