@@ -29,7 +29,7 @@ L'agence RAE (Rodez Agence d'agent) souhaiterait gérer plus facilement ses ress
     - Durée estimée : *0,5 jour*
     - Compétences : *4, 5 et 6*
 
-##Users stories
+## Users stories
 * **En tant que master, je peux** me connecter à l'application avec mon nom de code et mon mot de passe.
 * **En tant que master, je peux** ajouter une nouvelle mission. Elle doit au moins contenir un agent, une cible, une description, une localisation.
 * **En tant que master, je peux** créer un nouvel agent.
