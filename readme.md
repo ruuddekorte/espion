@@ -1,5 +1,5 @@
 # Création d'un site pour l'agence d'agent R2A
-L'agence R2A (Rodez Agence d'agent) souhaiterait gérer plus facilement ses ressources et ses missions. Votre mission (vous devez l'accepter) et de créer une application qui permettrait :
+L'agence R2A (Rodez Agence d'Agent) souhaiterait gérer plus facilement ses ressources et ses missions. Votre mission (vous devez l'accepter) et de créer une application qui permettrait :
 * au master de gérer et d'affecter des missions ;
 * aux agents de voir et mettre à jour leurs missions affectées.
 
@@ -35,7 +35,7 @@ L'agence R2A (Rodez Agence d'agent) souhaiterait gérer plus facilement ses ress
 * **En tant que master, je peux** créer un nouvel agent.
 * **En tant que master, je peux** créer une nouvelle cible.
 * **En tant que master, je peux** déclarer si un agent est mort.
-* **En tant que master, je peux** associer une ou plusieurs cible.s à une mission. Une cible peut être dans une ou plusieurs mission.s.
+* **En tant que master, je peux** associer une ou plusieurs cibles à une mission. Une cible peut être dans une ou plusieurs missions.
 * **En tant que master, je peux** associer un agent à une mission. Un agent ne peut avoir qu'une seule mission.
 * **En tant que master, je peux** associer une localisation à un mission. Les localisations possibles correspondent aux continents.
 * **En tant que master, je peux** voir toutes les missions en cours.
